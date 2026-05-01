@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Email Threat Analysis & Digital Forensics</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Email Threat Analysis & Digital Forensics](https://github.com/JosephViz/Email-Threat-Analysis-)
 - <b>Splunk log detection Home Lab </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
