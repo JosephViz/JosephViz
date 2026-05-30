@@ -23,7 +23,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/@JosephVizcarrondo-e2v
 [instagram]: https://www.instagram.com/j_seph770/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: hhttps://www.linkedin.com/in/joseph-vizcarrondo-341856364/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
