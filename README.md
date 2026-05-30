@@ -22,7 +22,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/@JosephVizcarrondo-e2v
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/j_seph770/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
