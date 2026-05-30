@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Email Threat Analysis & Digital Forensics](https://github.com/JosephViz/Email-Threat-Analysis-)
-- [PCAP Analysis & Threat Mapping](https://github.com/JosephViz/PCAP-Analysis-Threat-Mapping-with-Wireshark))
+- [PCAP Analysis & Threat Mapping](https://github.com/JosephViz/PCAP-Analysis-Threat-Mapping-with-Wireshark)
 - [SIEM SOC Lab](SOON}
 
 <h2> IT Support Labs:</h2>
