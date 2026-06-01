@@ -8,7 +8,7 @@
 
 <h2> IT Support Labs:</h2>
 
-- [Ticketing System](SOON)
+- [Ticketing System] (SOON)
 
 <h2>📺 YouTube Videos(SOON)</h2>
 
