@@ -1,13 +1,10 @@
 # Hello, I'm Joseph Vizcarrondo
 <a href="https://www.linkedin.com/in/joseph-vizcarrondo-341856364/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a student at Miami Dade college with a profound interest in cybersecurity; very adaptable and dedicated.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-My journey with using technology over the years has led to develop a passion for cybersecurity. I am continuously learning and sharpening my hands-on skills with a focus on security operations, threat detection, and incident response. 
+My journey with using technology over the years has led me to develop a passion for cybersecurity. I am continuously learning and sharpening my hands-on skills with a focus on security operations, threat detection, and incident response. 
 
 
 ## Skills
