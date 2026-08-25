@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a student at Miami Dade college with a profound interest in cybersecurity; very adaptable and dedicated.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
+My journey with using technology over the years has led to develop a passion for cybersecurity. I am continuously learning and sharpening my hands-on skills with a focus on security operations, threat detection, and incident response. 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
