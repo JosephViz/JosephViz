@@ -14,7 +14,7 @@ My journey with using technology over the years has led me to develop a passion 
 |-----------------------------------------------|----------------------------|
 | PCAP Analysis Threat Mapping with Wireshark   | <a href="https://github.com/JosephViz/PCAP-Analysis-Threat-Mapping-with-Wireshark">PCAP Analysis Lab</a>|
 | Scoping Phishing Infrastructure using Threat Intel | <a href="https://github.com/JosephViz/Scoping-phishing-using-Threat-Intel">Phishing Infrastructure Campaign</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Email Analysis(Decrypting Base64, revealing File signature, etc)        | <a href="https://github.com/JosephViz/Email-Threat-Analysis-">Email Analysis Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
