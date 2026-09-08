@@ -12,10 +12,10 @@ My journey with using technology over the years has led me to develop a passion 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| PCAP Analysis Threat Mapping with Wireshark   | <a href="https://github.com/JosephViz/PCAP-Analysis-Threat-Mapping-with-Wireshark">PCAP Analysis Lab</a>|
-| Scoping Phishing Infrastructure using Threat Intel | <a href="https://github.com/JosephViz/Scoping-phishing-using-Threat-Intel">Phishing Infrastructure Campaign</a>|
+| Scoping Phishing Infrastructure using Threat Intel | <a href="https://github.com/JosephViz/Scoping-phishing-using-Threat-Intel">Phishing Infrastructure Campaign</a> |
+| Ticketing Lab  | <a href="https://github.com/JosephViz/OsTicketing-"> Ticketing Lab</a>|
 | Email Analysis(Decrypting Base64, revealing File signature, etc)        | <a href="https://github.com/JosephViz/Email-Threat-Analysis-">Email Analysis Lab</a>|
-| Ticketing Lab     |<a href="https://github.com/JosephViz/OsTicketing-"> Ticketing Lab</a>|
+| PCAP Analysis Threat Mapping with Wireshark     |<a href="https://github.com/JosephViz/PCAP-Analysis-Threat-Mapping-with-Wireshark">PCAP Analysis Lab</a>|
 | SOC Lab(Coming Soon)                 | SOC Automation Lab|
 
 
